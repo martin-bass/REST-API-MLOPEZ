@@ -14,3 +14,6 @@ A su vez, se puede hacer consultas por id individual (ademas de actualizar datos
 
 ![screencapture-rest-api-mlopez-production-up-railway-app-api-employees-5-2022-10-13-18_24_56](https://user-images.githubusercontent.com/84106998/195713770-330e8380-67bc-4d97-883f-510e62645fb6.jpeg)
 
+En caso de no encontrar el id indicada, la API arroja un mensaje de error: 
+
+![screencapture-rest-api-mlopez-production-up-railway-app-api-employees-daaad-2022-10-13-18_36_16](https://user-images.githubusercontent.com/84106998/195715536-d37bb780-1265-4bd3-aa51-20e70bba085e.jpeg)
