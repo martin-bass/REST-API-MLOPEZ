@@ -1,10 +1,10 @@
 # REST-API-MLOPEZ
 
-Este proyecto implica el desarrollo de una REST-API en Node.js (utilizando Express.js como Framework y MySQL como base de datos).
+Este proyecto implica el desarrollo de una REST-API en **Node.js** (utilizando **Express.js** como Framework y **MySQL** como base de datos).
 
-Esta API posee las cuatro operaciones básicas del protocolo HTTP (GET, POST, PUT, DELETE)
+Esta API posee las cuatro operaciones básicas del protocolo HTTP (*GET, POST, PUT, DELETE*)
 
-La misma esta deplegada a través del sitio RailwayApp y realiza consultas a una BBDD de empleados donde se pueden ver los id, nombre y salario.
+La misma esta deplegada a través del sitio *RailwayApp* y realiza consultas a una BBDD de empleados donde se pueden ver los id, nombre y salario.
 
 Se puede acceder a la totalidad de empleados desde la siugiente URL: https://rest-api-mlopez-production.up.railway.app/api/employees:
 
