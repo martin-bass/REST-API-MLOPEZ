@@ -1,5 +1,6 @@
 import { pool } from "../db.js";
 
+//Controllers
 export const getEmployees = async (req, res) => {
   try {
     const [rows] = await pool.query("SELECT * FROM employee");
